@@ -124,3 +124,34 @@
     font-weight: normal;
 
 }
+.listazapa:hover
+{
+    background-color: #151B1F;
+    color: white;
+}
+.listazapa2:hover
+{
+    background-color: #151B1F;
+    color: white;
+}
+.listazapa3:hover{
+    background-color: #151B1F;
+    color: white;
+}
+.listazapa4:hover{
+    background-color: #151B1F;
+    color: white;
+}
+.listazapa5:hover{
+    background-color: #151B1F;
+    color: white;
+}
+.listazapa6:hover
+{
+    background-color: #151B1F;
+    color: white;
+}
+.listazapa, .listazapa2, .listazapa3, .listazapa4, .listazapa5, .listazapa6
+{
+    transition: 0.5s;
+}

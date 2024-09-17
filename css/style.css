@@ -176,3 +176,14 @@ footer{
   .contacto h1{
     text-align: center;
   }
+  @font-face
+{
+    font-family: Bluffolk;
+    src: url(../fonts/Bluffolk.otf) format(truetype);
+    font-style: normal;
+    font-weight: normal;
+
+}
+nav{
+  font-family: Bluffolk;
+}
