@@ -3,7 +3,7 @@
     
     top: 15%;
   left: 37%;
-    right: 50%;
+  left: 41%;
   margin: -25px 0 0 -25px;
    position: absolute;
    width: 500px;
@@ -43,7 +43,6 @@
     margin-top: 30px;
     margin-left: 10px;
     border-radius: 20px; 
-    
     background-color: #CAE0E8;
     padding-bottom: 20px;
     display: flex;
@@ -60,7 +59,7 @@
     right: 0%;
     top: 538px;
     width: 49%;
-    height: 105%
+    height: 0%
     
 }
 .listazapa4
@@ -69,7 +68,7 @@
     background-color: #CAE0E8;
     padding-bottom: 20px;
     display: flex;
-    border-radius: 20px
+    border-radius: 20px;
     
     
 }
@@ -80,7 +79,7 @@
     margin-top: 10px;
     margin-left: 10px;
     border-radius: 20px;
-    right: : 0%;
+    right: 0%;
     
 }
 .listazapa5
@@ -90,7 +89,7 @@
     margin-top: 30px;
     padding-bottom: 20px;
     display: flex;
-    border-radius: 20px
+    border-radius: 20px;
 }
 .listazapa6
 {
@@ -99,5 +98,29 @@
     margin-top: 30px;
     padding-bottom: 20px;
     display: flex;
-    border-radius: 20px
+    border-radius: 20px;
+}
+.textozapatos{
+    font-size: 40px;
+    padding-left: 90px;
+    height: 10px;
+    font-family: Bluffolk;
+    
+        
+}
+.textoprecio
+{
+   font-size: 40px;
+   margin-left: 10px;
+   color: crimson;
+   font-family: Bluffolk;
+    
+}
+@font-face
+{
+    font-family: Bluffolk;
+    src: url(../fonts/Bluffolk.otf) format(truetype);
+    font-style: normal;
+    font-weight: normal;
+
 }
