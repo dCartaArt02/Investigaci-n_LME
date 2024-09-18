@@ -1,13 +1,14 @@
 #zapatogif
 {
     
-    top: 13%;
+    top: 15% ;
   left: 37%;
-  left: 41%;
-  margin: -25px 0 0 -25px;
+  left: 0% auto;
+  
    position: absolute;
    width: 500px;
    border-radius: 5%;
+   margin-bottom: 30%;
 }
 .listazapa
 {
@@ -152,6 +153,100 @@
     color: white;
 }
 .listazapa, .listazapa2, .listazapa3, .listazapa4, .listazapa5, .listazapa6
+{
+    transition: 0.5s;
+}
+#videozapa
+{
+    margin-top: 5%;
+   text-align: center;
+}
+.listazapapuma
+{
+    
+    margin-top: 450px;
+    border-radius: 20px; 
+    
+    margin-left: 10px;
+    background-color: #FFF65C;
+    padding-bottom: 20px;
+    display: flex;
+    
+}
+.listazapa2puma
+{
+    margin-top: 30px;
+    margin-left: 10px;
+    border-radius: 20px; 
+    background-color: #FFF65C;
+    padding-bottom: 20px;
+    display: flex;
+}
+.listazapa3puma
+{
+    margin-top: 30px;
+    margin-left: 10px;
+    border-radius: 20px; 
+    background-color: #FFF65C;
+    padding-bottom: 20px;
+    display: flex;
+}
+.listazapa4puma
+{
+    position: relative;
+    background-color: #FFF65C;
+    padding-bottom: 20px;
+    display: flex;
+    border-radius: 20px;
+    
+    
+}
+.listazapa5puma
+{
+     position: relative;
+    background-color: #FFF65C;
+    margin-top: 30px;
+    padding-bottom: 20px;
+    display: flex;
+    border-radius: 20px;
+}
+.listazapa6puma
+{
+     position: relative;
+    background-color: #FFF65C;
+    margin-top: 30px;
+    padding-bottom: 20px;
+    display: flex;
+    border-radius: 20px;
+}
+.listazapapuma:hover
+{
+    background-color: #0A051F;
+    color: white;
+}
+.listazapa2puma:hover
+{
+    background-color: #0A051F;
+    color: white;
+}
+.listazapa3puma:hover{
+    background-color: #0A051F;
+    color: white;
+}
+.listazapa4puma:hover{
+    background-color: #0A051F;
+    color: white;
+}
+.listazapa5puma:hover{
+    background-color: #0A051F;
+    color: white;
+}
+.listazapa6puma:hover
+{
+    background-color: #0A051F;
+    color: white;
+}
+.listazapapuma, .listazapa2puma, .listazapa3puma, .listazapa4puma, .listazapa5puma, .listazapa6puma
 {
     transition: 0.5s;
 }

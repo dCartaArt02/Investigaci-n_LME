@@ -187,3 +187,11 @@ footer{
 nav{
   font-family: Bluffolk;
 }
+.puma
+{
+  background: radial-gradient(blue, pink);
+}
+.adidas
+{
+  background: radial-gradient(#64B7FF, white);
+}
