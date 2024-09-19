@@ -112,7 +112,7 @@
 .textoprecio
 {
    font-size: 40px;
-   margin-left: 10px;
+   margin-left: 20px;
    color: crimson;
    font-family: Bluffolk;
     
@@ -159,7 +159,7 @@
 #videozapa
 {
     margin-top: 5%;
-   text-align: center;
+    text-align: center;
 }
 .listazapapuma
 {
@@ -248,5 +248,5 @@
 }
 .listazapapuma, .listazapa2puma, .listazapa3puma, .listazapa4puma, .listazapa5puma, .listazapa6puma
 {
-    transition: 0.5s;
+    transition: 0.3s;
 }
